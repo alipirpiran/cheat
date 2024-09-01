@@ -10,7 +10,9 @@ This plugin provides completion for [cheat](https://github.com/cheat/cheat).
 
 ### Run installer
 
-`zsh < <(curl -s -S -L https://raw.githubusercontent.com/alipirpiran/cheat/master/installer.sh)`
+```bash
+zsh < <(curl -s -S -L https://raw.githubusercontent.com/alipirpiran/cheat/master/installer.sh)
+```
 
 #### Add cheat plugin
 
